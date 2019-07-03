@@ -1,4 +1,4 @@
-##An app based on chrisvfritz sample code
+## An app based on chrisvfritz sample code
 
 # test-project
 
